@@ -1,16 +1,16 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="MS-DOS logosu" src="https://github.com/Microsoft/MS-DOS/blob/master/msdos-logo.png">   
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="MS-DOS logo" src="https://github.com/Microsoft/MS-DOS/blob/master/msdos-logo.png">   
 
 # MS-DOS v1.25 ve v2.0 Kaynak Kodu
-Bu depo MS-DOS v1.25 ve MS-DOS v2.0'ın orijinal kaynak kodunu ve derlenmiş çalıştırılabilir dosyalarını içerir.
+Bu repo, MS-DOS v1.25 ve MS-DOS v2.0 ait orijinal kaynak kodu ve derlenmiş ikili dosyaları içerir.
 
-Bu dosyalar [ilk olarak 25 Mart 2014 tarihinde Bilgisayar Tarihi Müzesinde yayınlananlarla]( http://www.computerhistory.org/atchm/microsoft-ms-dos-early-source-code/) aynı dosyalardır ve bu projede, daha kolay bulunabilmesi, dış yazılar ve işlerde atıflanabilmesi ve öncül Kişisel Bilgisayar İşletim Sistemlerine ilgi duyanların keşif ve denemeler yapabilmesi için (yeniden) yayınlanmaktadır.
+Bu dosyalar [25 Mart 2014 tarihinde Bilgisayar Tarihi Müzesinde paylaşılan]( http://www.computerhistory.org/atchm/microsoft-ms-dos-early-source-code/) dosyalar ile aynı dosyalardır ve harici yazım ve işlerde referans bulma, referans yapma ve ilk PC işletim sistemlerine ilgi duyanlar için keşif ve deney yapmalarını kolaştırmak amacıyla yayınlanmıştır.
 
 # Lisans
-Bu depodaki tüm dosyalar, deponun kök klasöründeki [LİSANS dosyasında](https://github.com/Microsoft/MS-DOS/blob/master/LICENSE.md) belirtildiği gibi [MIT (OSI) Lisansıyla](https://en.wikipedia.org/wiki/MIT_License) yayınlanmıştır.
+Tüm dosyalar [MIT (OSI) License]( https://en.wikipedia.org/wiki/MIT_License) altında yayınlanmıştır. Reponun kökünde yer alan [LICENSE dosyası](https://github.com/Microsoft/MS-DOS/blob/master/LICENSE.md) baz alınmıştır.
 
-# Katkıda Bulunun!
-Bu depodaki dosyalar tarihsel niteliktedir ve statik olarak saklanacaktır, bu yüzden lütfen kaynak dosyalara herhangi bir değişiklik öneren bir çekme talebi (Pull Request) **göndermeyin**. Yine de bu depoyu çatallamaktan ve denemekten çekinmeyin 😊.  
+# Katkıda Bulunmak!
+Bu repodaki kaynak dosyalar tarihsel referans amaçlıdır bu yüzden statik tutulacaktır. Lütfen kaynak kodlarda herhangi bir değişiklik yapılmasını öneren işlemler (pull request) **yapmayın**, ancak reposu deneysel olarak forklamaktan çekinmeyin 😊.
 
-Ama eğer kaynak dosyalar dışındaki dosyalara (örn. bu README benioku dosyası) kaynak dışı içerik ya da değişiklik katmak isterseniz lütfen çekme talebi (PR) ile gönderin ve biz de inceleyip değerlendirelim.
+Bununla birlikte, kaynak olmayan dosyalara (ör. Bu README) ek kaynak olmayan içerik veya değişiklik göndermek isterseniz, lütfen PR yoluyla gönderin. İnceleyip değerlendireceğiz.
 
-Bu proje [Microsoft Davranış Kurallarını](https://opensource.microsoft.com/codeofconduct/) benimsemiştir. Daha fazla bilgi için [Davranış Kuralları SSS](https://opensource.microsoft.com/codeofconduct/faq/) sayfasını inceleyin ya da başka sorular veya yorumlar için [opencode@microsoft.com](mailto:opencode@microsoft.com) ile iletişime geçin.
+Bu proje [Microsoft Açık Kaynak Kodlu Davranış Kuralları](https://opensource.microsoft.com/codeofconduct/)'nı kabul etmiştir. Daha fazla bilgi için [Davranış Kuralları SSS](https://opensource.microsoft.com/codeofconduct/faq/)'e bakabilir ya da [opencode@microsoft.com](mailto:opencode@microsoft.com) adresiyle iletişime geçerek soru ve yorumlarınızı iletebilirsiniz.
