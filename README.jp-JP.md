@@ -1,6 +1,6 @@
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="MS-DOS logo" src="https://github.com/Microsoft/MS-DOS/blob/master/msdos-logo.png">   
 
-# MS-DOS v1.25 and v2.0 Source Code
+MS-DOS v1.25およびv2.0ソースコード
 このレポには、MS-DOS v1.25およびMS-DOS v2.0用の元のソースコードとコンパイル済みバイナリが含まれています。
 
 これらは、もともとコンピュータ歴史博物館で2014年3月25日に共有された同じファイルで、外部の執筆や作品の参照、検索や実験を容易にするためにこのレポで公開されています。初期のPCオペレーティングシステムに興味のある人。
